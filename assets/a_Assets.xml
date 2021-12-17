@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="a.png">
+	<SubTexture name="apple0000" x="0" y="0" width="100" height="200" frameX="0" frameY="0" frameWidth="100" frameHeight="200"/>
+	<SubTexture name="apple0001" x="100" y="0" width="100" height="200" frameX="0" frameY="0" frameWidth="100" frameHeight="200"/>
+	<SubTexture name="apple0002" x="200" y="0" width="100" height="200" frameX="0" frameY="0" frameWidth="100" frameHeight="200"/>
+	<SubTexture name="apple0003" x="300" y="0" width="100" height="200" frameX="0" frameY="0" frameWidth="100" frameHeight="200"/>
+	<SubTexture name="apple0004" x="0" y="200" width="100" height="200" frameX="0" frameY="0" frameWidth="100" frameHeight="200"/>
+	<SubTexture name="sand0000" x="100" y="200" width="100" height="200" frameX="0" frameY="0" frameWidth="100" frameHeight="200"/>
+	<SubTexture name="sand0001" x="200" y="200" width="100" height="200" frameX="0" frameY="0" frameWidth="100" frameHeight="200"/>
+	<SubTexture name="sand0002" x="300" y="200" width="100" height="200" frameX="0" frameY="0" frameWidth="100" frameHeight="200"/>
+</TextureAtlas>
